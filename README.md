@@ -1,14 +1,8 @@
 # Notes-Saver-application
-A simple notes management application built with React, Tailwind CSS, Redux, and Local Storage.
-
-
-# Paste App 
-
 A simple web application to create, view, edit, delete, copy, and share text pastes.  
 Users can also search pastes by title, and each paste shows its creation date and time.
 
 ## Features
-
 - Create new pastes with title and content  
 - View saved pastes  
 - Edit and update pastes  
@@ -20,7 +14,6 @@ Users can also search pastes by title, and each paste shows its creation date an
 - Data is stored in browser localStorage  
 
 ## Technologies Used
-
 - React  
 - React Router  
 - Redux Toolkit  
